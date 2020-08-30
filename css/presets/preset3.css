@@ -44,6 +44,10 @@ blockquote {
 .heading:hover .title-icon{
 	color: #ee3b24;
 }
+.heading:hover .title-icon-white{
+	color: #323232;
+}
+
 
 h2.entry-title a:hover{
 	color: #ee3b24;
